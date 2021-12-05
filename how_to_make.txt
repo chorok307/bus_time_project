@@ -6,11 +6,8 @@ api에서 지난 버스들의 도착 시간을 수집할 수 있다면 좋겠지
 필요 metadata : 버스 노선 정보, 정류장 정보
 
 경기 버스 api : https://www.gbis.go.kr/gbis2014/publicService.action?cmd=openApiInfo
-경기도_버스노선조회 : https://www.data.go.kr/data/15080662/openapi.do
-경기도_버스도착정보조회 : https://www.data.go.kr/data/15080662/openapi.do
-경기도_버스위치정보조회 : https://www.data.go.kr/data/15080662/openapi.do
-
-서울 버스 api : http://api.bus.go.kr/contents/sub02/svcList.html
+서울 버스 api : http://api.bus.go.kr/index.jsp
+인천 버스 api : https://www.data.go.kr/dataset/15036954/openapi.do
 
 네이버지도_api : https://navermaps.github.io/maps.js/showcase.html
 branch test
